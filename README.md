@@ -1,6 +1,8 @@
 # Dwarf Fortress Bug Bot
 A bot that posts random bugs from the [Dwarf Fortress bug tracker](https://dwarffortressbugtracker.com)
 
+https://bsky.app/profile/dwarffortressbugs.bsky.social
+
 Inspired by DwarfFortBugs on twitter (rip)
 
 ## Setup
